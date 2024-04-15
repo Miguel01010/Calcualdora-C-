@@ -45,9 +45,11 @@ namespace calculadora
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
             if (tbxScreen.Text >= 2 && tbxScreen(texto[texto.Length - 2]) && tbxScreen q(texto[texto.Length - 1]))
-                {
-                    return "1";
-                }
+           {
+                return "2";
+           }
+
+          
 
         }
 
