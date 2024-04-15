@@ -1,0 +1,17 @@
+C:\Users\migue\source\repos\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.exe
+C:\Users\migue\source\repos\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.deps.json
+C:\Users\migue\source\repos\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.runtimeconfig.json
+C:\Users\migue\source\repos\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.dll
+C:\Users\migue\source\repos\calculadora\calculadora\bin\Debug\net6.0-windows\calculadora.pdb
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.GenerateResource.cache
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.AssemblyInfo.cs
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.dll
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\refint\calculadora.dll
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.pdb
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\ref\calculadora.dll
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.CALCULADORA.resources
+C:\Users\migue\source\repos\calculadora\calculadora\obj\Debug\net6.0-windows\calculadora.Properties.Resources.resources
