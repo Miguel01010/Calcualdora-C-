@@ -46,7 +46,7 @@ namespace calculadora
         {
             if (tbxScreen.Text >= 2 && tbxScreen(texto[texto.Length - 2]) && tbxScreen q(texto[texto.Length - 1]))
            {
-                return "2";
+                return "1";
            }
 
           
